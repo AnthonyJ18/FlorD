@@ -32,7 +32,7 @@ body {
     position: absolute;
     text-align: center;
     color: #fff;
-    font-size: 25px;
+    font-size: 15px;
     bottom: var(--text-below-bottom);
   }
   
